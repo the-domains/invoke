@@ -1,7 +1,7 @@
 name: Invoke
 favicon: null
-layout_spectrum: 0.97391
-typography_spectrum: 0.48746
+layout_spectrum: 1
+typography_spectrum: 0.61585
 cta:
   domain: null
   bucket: null
