@@ -1,7 +1,7 @@
 name: Invoke
 favicon: null
 layout_spectrum: 0.20757027459330857
-typography_spectrum: 0.6102344994433224
+typography_spectrum: 0.48746
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#0d1716'
     - '#78a9ba'
     - '#435d5c'
-  brandStrength: 0.49485420156270266
+  brandStrength: 0.6875
   lightness: 0.17869194387458265
   saturation: 0.744120308663696
   rhythmicContrast: 0.35440061381086707
