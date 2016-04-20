@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Invoke]]></title>
         <description><![CDATA[Invoke]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/invoke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 11:12:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 08:42:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/invoke/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Collaboration]]></title>
-            <description><![CDATA[<article><h1>Collaboration</h1><p> At Invoke, we believe that resilience is best built from the ground up. Livelihoods must adjust and adapt. Lifestyles, economy's and national interests must be recalibrated. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5990334321d8da052e5a625753e768361d9c2205.jpg"></article>]]></description>
-            <link>undefinedcollaboration/index.html</link>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cf775ed14e3533deffe46db90213c78/passthrough.jpg?height=530&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5990334321d8da052e5a625753e768361d9c2205.jpg&width=750">]]></description>
+            <link>https://thegrid.ai/invoke/collaboration/index.html</link>
             <guid isPermaLink="false">f9a3915a-21e3-4316-b4f5-2c823057f018</guid>
-            <pubDate>Fri, 15 Apr 2016 11:12:16 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2016 08:41:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
