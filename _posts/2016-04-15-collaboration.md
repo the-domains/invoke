@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "\_At Invoke, we believe that resilience is best built from the ground up. Livelihoods must adjust and adapt. Lifestyles, economies and national interests must be recalibrated.\_"
-datePublished: '2016-04-15T11:12:16.881Z'
-dateModified: '2016-04-15T11:11:55.809Z'
-title: Collaboration
+description: " At Invoke, we believe that resilience is best built from the ground up. Livelihoods must adjust and adapt. Lifestyles, economy's and national interests must be recalibrated. "
+datePublished: '2016-04-20T08:41:55.563Z'
+dateModified: '2016-04-20T08:39:44.762Z'
+title: ''
 author: []
+sourcePath: _posts/2016-04-15-collaboration.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-collaboration.md
-published: true
 url: collaboration/index.html
 _type: Article
 
 ---
-## Understanding the risks associated with climate change requires us to understand and accept interconnected models of **cause and effect**. ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cf775ed14e3533deffe46db90213c78/passthrough.jpg?height=530&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5990334321d8da052e5a625753e768361d9c2205.jpg&width=750)
+## Climate change requires us to understand interconnected models of **cause and effect**. ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cf775ed14e3533deffe46db90213c78/passthrough.jpg?height=530&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5990334321d8da052e5a625753e768361d9c2205.jpg&width=750)
 
 In the vulnerable nations of the Pacific, drastic preparation is required to counter-act the challenges posed by climate change and there is an ever increasing reliance on governments, donors and technical specialists to deliver solutions.
 
