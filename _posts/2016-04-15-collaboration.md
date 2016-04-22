@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: " At Invoke, we believe that resilience is best built from the ground up. Livelihoods must adjust and adapt. Lifestyles, economy's and national interests must be recalibrated. "
-datePublished: '2016-04-20T08:41:55.563Z'
-dateModified: '2016-04-20T08:39:44.762Z'
+datePublished: '2016-04-22T09:01:51.642Z'
+dateModified: '2016-04-22T08:09:45.489Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-collaboration.md
