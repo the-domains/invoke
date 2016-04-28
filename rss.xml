@@ -4,7 +4,7 @@
         <description><![CDATA[Invoke]]></description>
         <link>https://thegrid.ai/invoke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 08:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 08:01:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/invoke/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/invoke/transport/index.html</link>
             <guid isPermaLink="false">cd5874fb-5216-476e-919c-35d8e8f4dd84</guid>
             <pubDate>Thu, 28 Apr 2016 08:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Debunking The Dialogue]]></title>
+            <description><![CDATA[<article><h1>Debunking The Dialogue</h1><p>Language doesn't have a fixed reference point. Intention and presentation dominate perception.</p></article>]]></description>
+            <link>https://thegrid.ai/invoke/debunking-the-dialogue/index.html</link>
+            <guid isPermaLink="false">03c4795a-50c0-4b88-bde3-67f2369f59b9</guid>
+            <pubDate>Thu, 28 Apr 2016 08:01:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
