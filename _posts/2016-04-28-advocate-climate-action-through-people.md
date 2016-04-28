@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Advocate accessible social responses to the climate crisis
-datePublished: '2016-04-28T12:21:30.566Z'
-dateModified: '2016-04-28T12:21:28.953Z'
+datePublished: '2016-04-28T12:29:44.431Z'
+dateModified: '2016-04-28T12:27:55.587Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-advocate-climate-action-through-people.md
@@ -24,9 +24,8 @@ _type: Article
 ---
 > THE MANIFESTO 
 
-from consumer to
-
-## contributor culture ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de7df00c-edc7-4ac4-b861-5a3b59f96a54.gif)
+# from consumer to contributor culture
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de7df00c-edc7-4ac4-b861-5a3b59f96a54.gif)
 
 Advocate accessible social responses to the climate crisis
 
