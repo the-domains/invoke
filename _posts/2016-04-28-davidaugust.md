@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://soundcloud.com/davidaugust'
 inLanguage: null
 keywords: []
 description: 'Listen to davidaugust | SoundCloud is an audio platform that lets you listen to what you love and share the sounds you create.. Berlin. 29 Tracks. 146171 Followers. Stream Tracks and Playlists from davidaugust on your desktop or mobile device.'
-datePublished: '2016-04-28T10:32:10.075Z'
-dateModified: '2016-04-28T10:32:00.757Z'
+datePublished: '2016-04-28T10:34:56.680Z'
+dateModified: '2016-04-28T10:32:12.777Z'
 author:
   - name: davidaugust
     url: 'http://soundcloud.com/davidaugust'
