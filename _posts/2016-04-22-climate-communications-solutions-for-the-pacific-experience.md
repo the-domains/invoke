@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: 'Climate Communications Solutions for the Pacific Experience '
-datePublished: '2016-04-22T09:01:18.948Z'
-dateModified: '2016-04-22T09:01:17.334Z'
+description: 'Communications Solutions for the Pacific Experience '
+datePublished: '2016-04-28T08:12:30.739Z'
+dateModified: '2016-04-28T08:12:29.684Z'
 title: ''
 author: []
 authors: []
@@ -16,10 +15,23 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 sourcePath: _posts/2016-04-22-climate-communications-solutions-for-the-pacific-experience.md
 published: true
 url: climate-communications-solutions-for-the-pacific-experience/index.html
 _type: Article
 
 ---
-Climate Communications Solutions for the Pacific Experience ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bff4825-00b7-45bc-9579-4cb3ebbc1577.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/912886e2-c0e2-4db9-9103-8760b0b57cfe.png)
+
+Communications Solutions for the Pacific Experience 
+
+Climate change is a major threat to the Pacific way of life. Pacific Island communities and cultures are under pressure to adapt to changing environmental, social, and economic conditions.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff999c1d-db2a-4ae0-80a1-052f6534580c.jpg)
+
+Invoke offers communication solutions motivated to tell the Pacific's story. 
+
+By capturing the unique risks and opportunities that define this region on the frontline of climate change, our work can help drive collaboration, innovation, and adaptation. 
+
+_'When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.' - John F. Kennedy_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdadaafb-9ea0-4dbe-95d4-152b35f2b7f2.jpg)
