@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: " At Invoke, we believe that resilience is best built from the ground up. Livelihoods must adjust and adapt. Lifestyles, economy's and national interests must be recalibrated. "
-datePublished: '2016-04-22T09:01:51.642Z'
-dateModified: '2016-04-22T08:09:45.489Z'
+datePublished: '2016-04-28T08:12:15.440Z'
+dateModified: '2016-04-28T08:12:14.070Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-collaboration.md
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: collaboration/index.html
 _type: Article
 
@@ -33,4 +33,3 @@ Communication between all stakeholders is key to ensuring the development of eff
 Clear advocacy, greater cross-discipline networking, an inclusive approach to community support, and a more defined outlook on social responsibility is required.
 
 Invoke is a social enterprise designed to enable innovation for adaptation.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3e3b4920851f92a2f8d462b8b17b9349/passthrough.png?height=549&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fcaabcf61b7b4ab5b42c90ec7eba1e0706fe2f96e.png&width=729)
