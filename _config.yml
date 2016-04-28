@@ -1,6 +1,6 @@
 name: Invoke
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.5183
 typography_spectrum: 0.58417
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#005dc7'
     - '#ffffff'
-    - '#090b08'
-    - '#588dcc'
-    - '#cac8d0'
-  brandStrength: 1
+    - '#0d0c12'
+    - '#5c5a5f'
+    - '#869099'
+    - '#d3d5d2'
+  brandStrength: 0.875
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
