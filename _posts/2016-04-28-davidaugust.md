@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: 'https://soundcloud.com/davidaugust'
 inLanguage: null
 keywords: []
-description: 'Listen to davidaugust | SoundCloud is an audio platform that lets you listen to what you love and share the sounds you create.. Berlin. 29 Tracks. 146171 Followers. Stream Tracks and Playlists from davidaugust on your desktop or mobile device.'
-datePublished: '2016-04-28T10:34:56.680Z'
-dateModified: '2016-04-28T10:32:12.777Z'
+description: ''
+datePublished: '2016-04-28T11:14:53.566Z'
+dateModified: '2016-04-28T10:35:12.908Z'
 author:
   - name: davidaugust
     url: 'http://soundcloud.com/davidaugust'
@@ -51,6 +51,8 @@ app_links:
     namespace: google
     type: ios
 title: davidaugust
+sourcePath: _posts/2016-04-28-davidaugust.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
@@ -58,8 +60,6 @@ publisher:
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 starred: false
-sourcePath: _posts/2016-04-28-davidaugust.md
-published: true
 _type: AudioObject
 _context: 'http://schema.org'
 
