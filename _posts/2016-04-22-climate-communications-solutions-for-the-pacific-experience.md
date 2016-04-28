@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Communications Solutions for the Pacific Experience '
-datePublished: '2016-04-28T08:12:30.739Z'
-dateModified: '2016-04-28T08:12:29.684Z'
+description: 'Climate change is a major threat to the Pacific way of life. Pacific Island communities and cultures are under pressure to adapt to changing environmental, social, and economic conditions.'
+datePublished: '2016-04-28T12:24:20.202Z'
+dateModified: '2016-04-28T11:13:56.357Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-22-climate-communications-solutions-for-the-pacific-experience.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,15 +18,13 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-04-22-climate-communications-solutions-for-the-pacific-experience.md
-published: true
 url: climate-communications-solutions-for-the-pacific-experience/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/912886e2-c0e2-4db9-9103-8760b0b57cfe.png)
 
-Communications Solutions for the Pacific Experience 
+## Communications Solutions for the Pacific 
 
 Climate change is a major threat to the Pacific way of life. Pacific Island communities and cultures are under pressure to adapt to changing environmental, social, and economic conditions.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff999c1d-db2a-4ae0-80a1-052f6534580c.jpg)
