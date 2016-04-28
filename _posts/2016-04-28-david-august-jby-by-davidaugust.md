@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-28T12:22:09.216Z'
-dateModified: '2016-04-28T12:09:04.556Z'
+datePublished: '2016-04-28T12:29:29.336Z'
+dateModified: '2016-04-28T12:25:59.174Z'
 author:
   - name: ''
     url: 'http://soundcloud.com/davidaugust'
@@ -49,7 +49,7 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: David August - J.B.Y. by davidaugust
+title: InvokeMusicShare
 sourcePath: _posts/2016-04-28-david-august-jby-by-davidaugust.md
 published: true
 authors: []
@@ -64,4 +64,6 @@ _type: AudioObject
 _context: 'http://schema.org'
 
 ---
+# InvokeMusicShare
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F249974995%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fdavidaugust%2Fjby&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000149476692-uj0cum-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
