@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Advocate climate action through people
-datePublished: '2016-04-28T07:38:43.792Z'
-dateModified: '2016-04-28T07:37:26.177Z'
+description: Advocate accessible social responses to the climate crisis
+datePublished: '2016-04-28T12:21:30.566Z'
+dateModified: '2016-04-28T12:21:28.953Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-advocate-climate-action-through-people.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,33 +18,33 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-advocate-climate-action-through-people.md
-published: true
 url: advocate-climate-action-through-people/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de7df00c-edc7-4ac4-b861-5a3b59f96a54.gif)
+> THE MANIFESTO 
 
-> THE MANIFESTO
+from consumer to
 
-Advocate climate action through people
+## contributor culture ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de7df00c-edc7-4ac4-b861-5a3b59f96a54.gif)
 
-Challenge existing governance systems to recalibrate priorities and deliver real solutions
+Advocate accessible social responses to the climate crisis
 
-Promote innovative solutions to Deep Decarbonization
+Find catalysts that can inform mainstream culture 
+
+Challenge existing governance systems to react
+
+Provide the information needed to recalibrate funding priorities 
+
+Promote innovation to enable Deep Decarbonization
 
 Celebrate culture and diversity
 
-Upscale human value of biodiversity
-
-Mainstream social responses to the climate crisis
-
-Catalyze the shift from consumer culture to Contributor culture
+Protect and help proliferate biodiversity
 
 Re-connect livelihoods with environments
 
-Small is beautiful
+'Small is beautiful'
 
 'Adaptation must be woven'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/628e5660-dc33-496d-8a1f-222a1336a325.png)
