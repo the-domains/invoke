@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-28T11:26:13.532Z'
-dateModified: '2016-04-28T11:26:13.036Z'
+datePublished: '2016-04-28T11:27:41.690Z'
+dateModified: '2016-04-28T11:27:36.535Z'
 author:
-  - name: david august
+  - name: ''
     url: 'http://soundcloud.com/davidaugust'
     avatar: {}
 related: []
