@@ -1,16 +1,17 @@
 ---
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-04-28T12:22:09.216Z'
+dateModified: '2016-04-28T12:09:04.556Z'
 author:
-  - name: davidaugust
+  - name: ''
     url: 'http://soundcloud.com/davidaugust'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: "Available here: https://davidaugust.lnk.to/jby-ouvert Counter Records (Ninja Tune) Digital ('J.B.Y./OUVERT' Out Now) 12\" ('J.B.Y./OUVERT' - Out 27 May 2016) Picture by Linn Kuhlmann"
 app_links:
   - type: ios
     namespace: ai
@@ -48,16 +49,17 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/davidaugust/jby'
 title: David August - J.B.Y. by davidaugust
-datePublished: '2016-04-28T11:48:30.027Z'
-dateModified: '2016-04-28T11:43:31.186Z'
-starred: false
 sourcePath: _posts/2016-04-28-david-august-jby-by-davidaugust.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+starred: false
+url: david-august-jby-by-davidaugust/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
