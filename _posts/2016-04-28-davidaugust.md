@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://soundcloud.com/davidaugust'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-28T11:14:53.566Z'
-dateModified: '2016-04-28T10:35:12.908Z'
+datePublished: '2016-04-28T11:15:05.717Z'
+dateModified: '2016-04-28T11:14:59.585Z'
 author:
   - name: davidaugust
     url: 'http://soundcloud.com/davidaugust'
