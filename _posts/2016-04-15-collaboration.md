@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: " At Invoke, we believe that resilience is best built from the ground up. Livelihoods must adjust and adapt. Lifestyles, economy's and national interests must be recalibrated. "
-datePublished: '2016-04-28T08:12:15.440Z'
-dateModified: '2016-04-28T08:12:14.070Z'
+description: ' At INVOKE, we focus on the messages that can shift behavior, produce new livelihood options and realign our priorities to match our environmental constraints.'
+datePublished: '2016-05-03T23:59:11.670Z'
+dateModified: '2016-05-03T23:58:46.089Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-collaboration.md
@@ -22,14 +22,22 @@ url: collaboration/index.html
 _type: Article
 
 ---
-## Climate change requires us to understand interconnected models of **cause and effect**. ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cf775ed14e3533deffe46db90213c78/passthrough.jpg?height=530&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5990334321d8da052e5a625753e768361d9c2205.jpg&width=750)
+# Work with us
 
-In the vulnerable nations of the Pacific, drastic preparation is required to counter-act the challenges posed by climate change and there is an ever increasing reliance on governments, donors and technical specialists to deliver solutions.
+## Climate change requires us to understand interconnected models of **cause and effect**. 
 
-At Invoke, we believe that resilience is best built from the ground up. Livelihoods must adjust and adapt. Lifestyles, economy's and national interests must be recalibrated. 
+## Only through Collaboration can our lifestyles, economies and priorities be safely recalibrated.
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cf775ed14e3533deffe46db90213c78/passthrough.jpg?height=530&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5990334321d8da052e5a625753e768361d9c2205.jpg&width=750)
 
-Communication between all stakeholders is key to ensuring the development of effective adaptation solutions and collaborative integration of the varied interests across sectors, companies, donors, and communities is far from easy
+In the vulnerable nations of the Pacific, drastic preparation is required to counter-act the challenges posed by climate change and resulting in an ever increasing reliance on governments, donors and technical specialists to deliver solutions.
 
-Clear advocacy, greater cross-discipline networking, an inclusive approach to community support, and a more defined outlook on social responsibility is required.
+At INVOKE, we focus on the messages that can shift behavior, produce new livelihood options and realign our priorities to match our environmental constraints.
 
-Invoke is a social enterprise designed to enable innovation for adaptation.
+Communication between all stakeholders is essential to ensuring the development of effective adaptation solutions. I
+
+INVOKE seeks to operationalize the integration of varied interests across sectors, companies, donors, and communities.We do this through clear advocacy, cross-discipline networking, an inclusive approach to resources, a strong mandate on social responsibility, and cutting edge media solutions.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0297a76-af26-494b-b97e-dc44b90f1142.jpg)
+
+We are always looking for like-minded individuals and organisations interested in partnership. 
+
+Interested in joining us in our efforts to INVOKE innovation for adaptation? Contact us today: invokeconsulting@gmail.com
