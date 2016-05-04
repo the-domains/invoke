@@ -4,7 +4,7 @@
         <description><![CDATA[Invoke]]></description>
         <link>https://thegrid.ai/invoke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 00:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 00:34:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/invoke/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/invoke/climate-communications-solutions-for-the-pacific-experience/index.html</link>
             <guid isPermaLink="false">9b8ff504-0abb-4d97-a9a0-2157f617affb</guid>
             <pubDate>Thu, 28 Apr 2016 12:24:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pacific Countries Determined For Shipping GHG Action | Ship Efficiency News]]></title>
+            <description><![CDATA[<article><h1>Pacific Countries Determined For Shipping GHG Action | Ship Efficiency News</h1><p>It was the Solomon Islands that led the determined Pacific voice for action at the IMO's MEPC alongside the Marshall Islands, Fiji, Papua New Guinea and Vanuatu through the submission of a proposal that called for the IMO to agree on a plan to work out what shipping's 'fair share' of GHG emissions should be.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4b446cb63456e16e79eda840565d691b328619f.jpg"></article>]]></description>
+            <link>http://www.shipefficiencyreview.com/pacific-countries-continue-to-demonstrate-their-gritty-determination-for-shipping-ghg-action/</link>
+            <guid isPermaLink="false">48858eac-556d-4fb0-86a9-38b9bf963cd5</guid>
+            <pubDate>Wed, 04 May 2016 00:34:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.climatechangenews.com/2016/03/24/framing-climate-risk-we-need-more-than-a-few-magic-words/</link>
             <guid isPermaLink="false">b927318a-53d1-42e3-a86c-1eb0effa430d</guid>
             <pubDate>Thu, 28 Apr 2016 11:09:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Invoke - View from the Frontline on Exposure]]></title>
-            <description><![CDATA[<article><h1>Invoke - View from the Frontline on Exposure</h1><p>Tuvalu is a nation made up of 9 atolls and the world's 4th smallest country with a population of around 11,000. Tuvalu is extremely vulnerable to climate change.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47578a6a0b3ee43854dbab3a9b9706c1f2c0f3d4.jpg"></article>]]></description>
-            <link>https://invoke.exposure.co/ea1c082b2dfc71b2735f205b5ea53593</link>
-            <guid isPermaLink="false">6039a0c3-12dc-407c-af1c-653917add17f</guid>
-            <pubDate>Thu, 28 Apr 2016 10:49:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
