@@ -4,7 +4,7 @@
         <description><![CDATA[Invoke]]></description>
         <link>https://thegrid.ai/invoke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 23:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 00:29:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/invoke/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/invoke/climate-communications-solutions-for-the-pacific-experience/index.html</link>
             <guid isPermaLink="false">9b8ff504-0abb-4d97-a9a0-2157f617affb</guid>
             <pubDate>Thu, 28 Apr 2016 12:24:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Debunking The Discourse]]></title>
+            <description><![CDATA[<article><h1>Debunking The Discourse</h1><p>Language doesn't have a fixed reference point. Intention and presentation dominate perception. Shaping collective awareness around climate change is essential and complex. The implications of a changing climate must be translated through culture, politics, media, and dialects. Effective communication is more important than ever both within localities and between nations. Invoke is an organisation focused on the experience of vulnerable Pacific nations, the challenges they face, and the importance of transmitting information from a region which is both the frontline for climate change risk and the starting point for unique opportunities and solutions. Within this Communication is key.</p></article>]]></description>
+            <link>https://thegrid.ai/invoke/debunking-the-dialogue/index.html</link>
+            <guid isPermaLink="false">03c4795a-50c0-4b88-bde3-67f2369f59b9</guid>
+            <pubDate>Wed, 04 May 2016 00:28:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Collaboration]]></title>
@@ -61,13 +68,6 @@
             <link>https://invoke.exposure.co/ea1c082b2dfc71b2735f205b5ea53593</link>
             <guid isPermaLink="false">6039a0c3-12dc-407c-af1c-653917add17f</guid>
             <pubDate>Thu, 28 Apr 2016 10:49:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Debunking The Dialogue]]></title>
-            <description><![CDATA[<article><h1>Debunking The Dialogue</h1><p>Language doesn't have a fixed reference point. Intention and presentation dominate perception.</p></article>]]></description>
-            <link>https://thegrid.ai/invoke/debunking-the-dialogue/index.html</link>
-            <guid isPermaLink="false">03c4795a-50c0-4b88-bde3-67f2369f59b9</guid>
-            <pubDate>Thu, 28 Apr 2016 08:01:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
