@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' At INVOKE, we focus on the messages that can shift behavior, produce new livelihood options and realign our priorities to match our environmental constraints.'
-datePublished: '2016-05-03T23:59:11.670Z'
-dateModified: '2016-05-03T23:58:46.089Z'
+datePublished: '2016-05-04T00:29:20.979Z'
+dateModified: '2016-05-03T23:59:13.577Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-collaboration.md
@@ -40,4 +40,6 @@ INVOKE seeks to operationalize the integration of varied interests across sector
 
 We are always looking for like-minded individuals and organisations interested in partnership. 
 
-Interested in joining us in our efforts to INVOKE innovation for adaptation? Contact us today: invokeconsulting@gmail.com
+Interested in 'innovation for adaptation'? 
+
+Contact us today: invokeconsulting@gmail.com
