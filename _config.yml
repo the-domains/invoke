@@ -21,8 +21,8 @@ color:
     - '#201e23'
     - '#ea0107'
     - '#fbb100'
-  brandStrength: 0
-  lightness: 0
+  brandStrength: 0.3125
+  lightness: 0.25
   saturation: 0
   rhythmicContrast: 0
 purpose: []
