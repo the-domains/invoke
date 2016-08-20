@@ -28,5 +28,8 @@ navigation:
   - name: About
     id: 9b8ff504-0abb-4d97-a9a0-2157f617affb
     type: content
+  - name: Work With US
+    id: f9a3915a-21e3-4316-b4f5-2c823057f018
+    type: content
 favicon: null
 purpose: []
