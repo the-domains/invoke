@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' At INVOKE, we focus on the messages that can shift behavior, produce new livelihood options and realign our priorities to match our environmental constraints.'
-datePublished: '2016-05-04T00:29:20.979Z'
-dateModified: '2016-05-03T23:59:13.577Z'
+datePublished: '2016-08-20T07:50:32.524Z'
+dateModified: '2016-08-20T07:50:30.897Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-collaboration.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
 starred: false
 url: collaboration/index.html
 _type: Article
