@@ -4,7 +4,7 @@
         <description><![CDATA[Invoke]]></description>
         <link>https://thegrid.ai/invoke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 07:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 07:50:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/invoke/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -21,18 +21,18 @@
             <pubDate>Sat, 20 Aug 2016 07:41:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Collaboration]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cf775ed14e3533deffe46db90213c78/passthrough.jpg?height=530&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5990334321d8da052e5a625753e768361d9c2205.jpg&width=750">]]></description>
+            <link>https://thegrid.ai/invoke/collaboration/index.html</link>
+            <guid isPermaLink="false">f9a3915a-21e3-4316-b4f5-2c823057f018</guid>
+            <pubDate>Sat, 20 Aug 2016 07:50:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ THE MANIFESTO]]></title>
             <description><![CDATA[<article><h1> THE MANIFESTO</h1><p>Advocate accessible social responses to the climate crisis</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3d896afea07710e6563a67d3d62436a3529bfdb.gif"></article>]]></description>
             <link>https://thegrid.ai/invoke/advocate-climate-action-through-people/index.html</link>
             <guid isPermaLink="false">83465ba0-af7a-4cc6-afbb-125246845149</guid>
             <pubDate>Sat, 20 Aug 2016 07:31:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Collaboration]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cf775ed14e3533deffe46db90213c78/passthrough.jpg?height=530&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5990334321d8da052e5a625753e768361d9c2205.jpg&width=750">]]></description>
-            <link>https://thegrid.ai/invoke/collaboration/index.html</link>
-            <guid isPermaLink="false">f9a3915a-21e3-4316-b4f5-2c823057f018</guid>
-            <pubDate>Wed, 04 May 2016 00:29:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Debunking The Discourse]]></title>
